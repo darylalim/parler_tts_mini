@@ -1,0 +1,3 @@
+git+https://github.com/huggingface/parler-tts.git
+gradio
+spaces

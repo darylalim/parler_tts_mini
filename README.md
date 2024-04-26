@@ -1,2 +1,2 @@
-# text-to-speech
- Generate natural sounding speech given text input.
+# Parler-TTS Mini
+ Generate high quality, natural sounding speech with a text prompt.
